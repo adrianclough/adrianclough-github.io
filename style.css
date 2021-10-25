@@ -1,0 +1,87 @@
+html, body {
+    font-family: Source-Code-Pro, Futura, Helvetica, Arial, sans-serif;     
+    height: 100%;
+    margin: 0;
+  
+}
+
+
+/* Exterior box */
+
+.box {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+
+  }
+  
+  
+.content {
+    display: flex;
+
+    flex: 1 1 auto;
+    flex-flow: row;
+
+    /* background-color: yellow; */
+
+}
+
+
+
+.leftbox    {
+    flex: 1 1 50%;
+
+    background-image: url("bitmap.png");
+    background-size: contain;   
+    background-repeat: no-repeat;
+    background-position: left top;
+
+
+        /* background-color: red; */
+
+}
+
+.rightbox   {
+    flex: 1 1 50%;
+    padding: 1em;
+
+
+    /* background-color: orange; */
+}
+
+
+
+
+/* div
+{
+overflow: auto;
+} */
+
+
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: rgb(134, 134, 134);
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    /* background-color: #ddd; */
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    /* background-color: #a3a3a3; */
+    color: black;
+}
+
