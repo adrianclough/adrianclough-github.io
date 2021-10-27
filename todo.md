@@ -1,3 +1,4 @@
  - change link style
+ - add meta info
  - change bullet point style
  -  Adrian Clough —> Adrian Clough | Mathematician
