@@ -1,4 +1,5 @@
  - change link style
  - add meta info
+ - topnav --> nav
+ - Adrian Clough —-> Adrian Clough | Mathematician
  - change bullet point style
- -  Adrian Clough —> Adrian Clough | Mathematician
