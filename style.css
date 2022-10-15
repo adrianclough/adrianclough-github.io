@@ -6,6 +6,31 @@ html, body {
 }
 
 
+/* links */ 
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: rgb(134, 134, 134);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+
+
 /* Exterior box */
 
 .box {
